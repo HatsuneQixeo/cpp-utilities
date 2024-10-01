@@ -1,6 +1,7 @@
 #ifndef SIMPLECLOCK_HPP
 # define SIMPLECLOCK_HPP
 
+# include <chrono>
 # include <iostream>
 
 typedef std::chrono::milliseconds	Seconds;
